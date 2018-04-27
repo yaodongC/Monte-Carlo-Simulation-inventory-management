@@ -1,0 +1,9 @@
+This file contains two MATLAB programs,one MATLAB script.
+**********************************************************
+For task 2, run task2.m
+For task 3, run task3.m
+For task 4, run task4.m
+**********************************************************
+MATLAB 2017b is required, programs has not been tested on 
+lower versions .
+**********************************************************
